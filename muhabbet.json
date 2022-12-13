@@ -1607,6 +1607,18 @@
             "podcastTime": 7181,
             "titlePodcast": "TeknoSeyir Muhabbet 2022/42",
             "explanationPodcast": "TeknoSeyir editörlerinin haftalık muhabbet yayını."
+        },
+        {
+            "year": "2022",
+            "count": 43,
+            "totalCount": 135,
+            "uploadDate": "16.11.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/11/muhabbet_43.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=nkLDV4sjX9U",
+            "siteLink": "https://teknoseyir.com/teknoseyir-muhabbet-43-2",
+            "podcastTime": 7120,
+            "titlePodcast": "TeknoSeyir Muhabbet 2022/43",
+            "explanationPodcast": "TeknoSeyir editörlerinin haftalık muhabbet yayını."
         }
     ]
 }
