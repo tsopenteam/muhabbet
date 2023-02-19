@@ -1739,6 +1739,18 @@
             "podcastTime": 6333,
             "titlePodcast": "TeknoSeyir Muhabbet 2023/5",
             "explanationPodcast": "TeknoSeyir editörlerinin haftalık muhabbet yayını."
+        },
+        {
+            "year": "2023",
+            "count": 6,
+            "totalCount": 146,
+            "uploadDate": "15.02.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/02/muhabbet_6.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=QxnZmBWlCHs",
+            "siteLink": "https://teknoseyir.com/teknoseyir-muhabbet-2023-05-2",
+            "podcastTime": 7742,
+            "titlePodcast": "TeknoSeyir Muhabbet 2023/6",
+            "explanationPodcast": "TeknoSeyir editörlerinin haftalık muhabbet yayını."
         }
     ]
 }
