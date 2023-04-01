@@ -1751,6 +1751,78 @@
             "podcastTime": 7742,
             "titlePodcast": "TeknoSeyir Muhabbet 2023/6",
             "explanationPodcast": "TeknoSeyir editörlerinin haftalık muhabbet yayını."
+        },
+        {
+            "year": "2023",
+            "count": 7,
+            "totalCount": 147,
+            "uploadDate": "22.02.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/02/muhabbet_7.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=pTP8C-oVjaI",
+            "siteLink": "https://teknoseyir.com/teknoseyir-muhabbet-2023-07",
+            "podcastTime": 7018,
+            "titlePodcast": "TeknoSeyir Muhabbet 2023/7",
+            "explanationPodcast": "TeknoSeyir editörlerinin haftalık muhabbet yayını."
+        },
+        {
+            "year": "2023",
+            "count": 8,
+            "totalCount": 148,
+            "uploadDate": "01.03.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/02/muhabbet_8.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=mxOwHClXGhA",
+            "siteLink": "https://teknoseyir.com/teknoseyir-muhabbet-2023-07-2",
+            "podcastTime": 7856,
+            "titlePodcast": "TeknoSeyir Muhabbet 2023/8",
+            "explanationPodcast": "TeknoSeyir editörlerinin haftalık muhabbet yayını."
+        },
+        {
+            "year": "2023",
+            "count": 9,
+            "totalCount": 149,
+            "uploadDate": "08.03.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/03/muhabbet_9.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=D4WhJqvavzA",
+            "siteLink": "https://teknoseyir.com/teknoseyir-muhabbet-2023-09",
+            "podcastTime": 8181,
+            "titlePodcast": "TeknoSeyir Muhabbet 2023/9",
+            "explanationPodcast": "TeknoSeyir editörlerinin haftalık muhabbet yayını."
+        },
+        {
+            "year": "2023",
+            "count": 10,
+            "totalCount": 150,
+            "uploadDate": "15.03.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/03/muhabbet_10.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=XMD7yjUC_64",
+            "siteLink": "https://teknoseyir.com/teknoseyir-muhabbet-2023-10-bartu-bolukbasi",
+            "podcastTime": 7940,
+            "titlePodcast": "TeknoSeyir Muhabbet 2023/10",
+            "explanationPodcast": "TeknoSeyir editörlerinin haftalık muhabbet yayını. Bartu Bölükbaşı"
+        },
+        {
+            "year": "2023",
+            "count": 11,
+            "totalCount": 151,
+            "uploadDate": "22.03.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/03/muhabbet_11.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=mOrCXQSHzn8",
+            "siteLink": "https://teknoseyir.com/teknoseyir-muhabbet-2023-11",
+            "podcastTime": 7909,
+            "titlePodcast": "TeknoSeyir Muhabbet 2023/11",
+            "explanationPodcast": "TeknoSeyir editörlerinin haftalık muhabbet yayını."
+        },
+        {
+            "year": "2023",
+            "count": 12,
+            "totalCount": 152,
+            "uploadDate": "29.03.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/03/muhabbet_12.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=hJgz5esScW0",
+            "siteLink": "https://teknoseyir.com/teknoseyir-muhabbet-2023-12",
+            "podcastTime": 6946,
+            "titlePodcast": "TeknoSeyir Muhabbet 2023/12",
+            "explanationPodcast": "TeknoSeyir editörlerinin haftalık muhabbet yayını."
         }
     ]
 }
